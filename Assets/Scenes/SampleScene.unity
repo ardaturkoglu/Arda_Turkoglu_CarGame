@@ -226,6 +226,7 @@ GameObject:
   m_Component:
   - component: {fileID: 6666529}
   - component: {fileID: 6666528}
+  - component: {fileID: 6666530}
   m_Layer: 0
   m_Name: GameManager
   m_TagString: Untagged
@@ -248,8 +249,8 @@ MonoBehaviour:
   Velocity: 2.65
   steerSpeed: 1
   levels:
-  - {fileID: 1336576235}
   - {fileID: 1791892291}
+  - {fileID: 1336576235}
 --- !u!4 &6666529
 Transform:
   m_ObjectHideFlags: 0
@@ -264,6 +265,18 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6666530
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6666527}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 112a9b76b71b380449ded6b9cad51ab8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &17033604
 GameObject:
   m_ObjectHideFlags: 0
@@ -6975,7 +6988,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 981214111}
   m_LocalRotation: {x: 0.0038936762, y: 0.6087791, z: -0.7933303, w: 0.000011329539}
-  m_LocalPosition: {x: 1.23, y: -0.36, z: 5.76}
+  m_LocalPosition: {x: 1.23, y: -0.56, z: 5.02}
   m_LocalScale: {x: 0.0484155, y: 0.0501767, z: -0.1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -9279,12 +9292,12 @@ GameObject:
   m_Component:
   - component: {fileID: 1336576236}
   m_Layer: 0
-  m_Name: Level1
+  m_Name: Level2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1336576236
 Transform:
   m_ObjectHideFlags: 0
@@ -9300,7 +9313,7 @@ Transform:
   - {fileID: 1040107765}
   - {fileID: 1622373945}
   m_Father: {fileID: 1909857101}
-  m_RootOrder: 0
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1351751510
 GameObject:
@@ -12210,12 +12223,12 @@ GameObject:
   m_Component:
   - component: {fileID: 1791892292}
   m_Layer: 0
-  m_Name: Level2
+  m_Name: Level1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &1791892292
 Transform:
   m_ObjectHideFlags: 0
@@ -12231,7 +12244,7 @@ Transform:
   - {fileID: 1779004033}
   - {fileID: 210902693}
   m_Father: {fileID: 1909857101}
-  m_RootOrder: 1
+  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1796776734
 GameObject:
@@ -12262,7 +12275,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1796776734}
   m_LocalRotation: {x: 0.0000006368484, y: 0.7166173, z: 0.0000011264908, w: -0.6974666}
-  m_LocalPosition: {x: 1.2063065, y: 28.686634, z: 4.16296}
+  m_LocalPosition: {x: 1.58, y: 28.69, z: 4.17}
   m_LocalScale: {x: 1.1, y: 1, z: 1}
   m_Children:
   - {fileID: 1739773243}
@@ -13047,8 +13060,8 @@ Transform:
   m_LocalPosition: {x: -31.851429, y: -28.181986, z: 9.425491}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
-  - {fileID: 1336576236}
   - {fileID: 1791892292}
+  - {fileID: 1336576236}
   m_Father: {fileID: 0}
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
