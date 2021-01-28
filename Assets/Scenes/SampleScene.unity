@@ -405,7 +405,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 00acc5e2940185648b56e3801ed76373, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Velocity: 2.01
+  Velocity: 2.5
   steerSpeed: 1.5
 --- !u!54 &29564505
 Rigidbody:
@@ -2318,7 +2318,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 00acc5e2940185648b56e3801ed76373, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Velocity: 2.01
+  Velocity: 2.5
   steerSpeed: 1.5
 --- !u!1 &288286348
 GameObject:
@@ -2796,7 +2796,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 00acc5e2940185648b56e3801ed76373, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Velocity: 2.01
+  Velocity: 2.5
   steerSpeed: 1.5
 --- !u!54 &365008851
 Rigidbody:
@@ -3111,7 +3111,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 00acc5e2940185648b56e3801ed76373, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Velocity: 2.01
+  Velocity: 2.5
   steerSpeed: 1.5
 --- !u!54 &410978375
 Rigidbody:
@@ -3410,7 +3410,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 00acc5e2940185648b56e3801ed76373, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Velocity: 2.01
+  Velocity: 2.5
   steerSpeed: 1.5
 --- !u!54 &457780449
 Rigidbody:
@@ -5452,7 +5452,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 00acc5e2940185648b56e3801ed76373, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Velocity: 2.01
+  Velocity: 2.5
   steerSpeed: 1.5
 --- !u!54 &777207599
 Rigidbody:
@@ -6545,7 +6545,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 00acc5e2940185648b56e3801ed76373, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Velocity: 2.01
+  Velocity: 2.5
   steerSpeed: 1.5
 --- !u!54 &946520419
 Rigidbody:
@@ -6672,7 +6672,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 00acc5e2940185648b56e3801ed76373, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Velocity: 2.01
+  Velocity: 2.5
   steerSpeed: 1.5
 --- !u!54 &951619427
 Rigidbody:
@@ -6927,7 +6927,7 @@ TextMesh:
   m_GameObject: {fileID: 981214111}
   m_Text: ' CarGame
 
-    Press to play.'
+'
   m_OffsetZ: 0
   m_CharacterSize: 1
   m_LineSpacing: 1
@@ -7318,7 +7318,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 00acc5e2940185648b56e3801ed76373, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Velocity: 2.01
+  Velocity: 2.5
   steerSpeed: 1.5
 --- !u!54 &1053433927
 Rigidbody:
@@ -9364,7 +9364,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 00acc5e2940185648b56e3801ed76373, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Velocity: 2.01
+  Velocity: 2.5
   steerSpeed: 1.5
 --- !u!54 &1351751513
 Rigidbody:
@@ -9586,7 +9586,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 00acc5e2940185648b56e3801ed76373, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Velocity: 2.01
+  Velocity: 2.5
   steerSpeed: 1.5
 --- !u!54 &1389690110
 Rigidbody:
@@ -10758,7 +10758,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 00acc5e2940185648b56e3801ed76373, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Velocity: 2.01
+  Velocity: 2.5
   steerSpeed: 1.5
 --- !u!54 &1594467703
 Rigidbody:
@@ -12295,7 +12295,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 00acc5e2940185648b56e3801ed76373, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Velocity: 2.01
+  Velocity: 2.5
   steerSpeed: 1.5
 --- !u!54 &1796776737
 Rigidbody:
@@ -12620,7 +12620,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 00acc5e2940185648b56e3801ed76373, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Velocity: 2.01
+  Velocity: 2.5
   steerSpeed: 1.5
 --- !u!54 &1838821341
 Rigidbody:
@@ -13207,7 +13207,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 00acc5e2940185648b56e3801ed76373, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Velocity: 2.01
+  Velocity: 2.5
   steerSpeed: 1.5
 --- !u!54 &1942213768
 Rigidbody:
@@ -14169,7 +14169,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 00acc5e2940185648b56e3801ed76373, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Velocity: 2.01
+  Velocity: 2.5
   steerSpeed: 1.5
 --- !u!54 &2107260787
 Rigidbody:
